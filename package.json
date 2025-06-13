@@ -9,9 +9,9 @@
     "type-check": "turbo type-check"
   },
   "devDependencies": {
-    "@turbo/gen": "^1.12.4",
-    "turbo": "^1.12.4",
-    "prettier": "^3.2.5"
+    "@repo/typescript-config": "workspace:*",
+    "prettier": "^3.0.0",
+    "turbo": "^2.0.0"
   },
   "packageManager": "npm@10.0.0",
   "workspaces": [
