@@ -9,7 +9,7 @@
     "type-check": "turbo type-check"
   },
   "devDependencies": {
-    "@repo/typescript-config": "workspace:*",
+    "@repo/typescript-config": "*",
     "prettier": "^3.0.0",
     "turbo": "^2.0.0"
   },
